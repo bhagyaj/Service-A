@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: servicea
+eureka:
+  client:
+    enabled: true
